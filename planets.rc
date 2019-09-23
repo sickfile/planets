@@ -1,0 +1,8 @@
+#include "resource.h"
+
+PLANET00	BINTYPE	"mercury.raw"
+PLANET01	BINTYPE	"venus.raw"
+PLANET02	BINTYPE	"earth.raw"
+PLANET03	BINTYPE	"mars.raw"
+PLANET04	BINTYPE	"jupiter.raw"
+PLANET05	BINTYPE	"neptune.raw"

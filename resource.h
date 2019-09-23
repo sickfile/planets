@@ -1,0 +1,7 @@
+
+#define	PLANET00	1000
+#define	PLANET01	1001
+#define	PLANET02	1002
+#define	PLANET03	1003
+#define	PLANET04	1004
+#define	PLANET05	1005
